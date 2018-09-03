@@ -1,4 +1,4 @@
-# Dom-s-Spicetify
+# Doms-Spicetify
 Spicetify CSS Settings
 *** Copy everything below and paste into the Edit CSS text document from the Spicetify settings menu
 *** Be sure to install the Open Sans font family or else the text will bug out
